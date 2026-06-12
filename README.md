@@ -42,7 +42,7 @@
 <h2 align="left">Finde me</h2>
 
 <div align="left">
- <a href="https://www.linkedin.com/in/jo%C3%A3o-gustavo-vieira-fernandes-pedrosa-949b603b7/" target="_blank">
+ <a href="https://www.linkedin.com/in/joão-gustavo-pedrosa/" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"   />
   </a>
   <a href="mailto:jgvfp@cesar.school" target="_blank">
