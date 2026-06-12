@@ -1,4 +1,4 @@
-<!-- <h1 align="left">Nice to meet you, I'm João Gustavo</h1>
+<h1 align="left">Nice to meet you, I'm João Gustavo</h1>
 
 
 
@@ -14,7 +14,12 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<h2 align="left"> My skills</h2>
+<ul align="left"><li>Python</li><li>JavaScript</li><li>HTML e CSS</li><li>Git/Github</li></ul>
+
+###
+<h2 align="left"> My interests</h2>
+<ul align="left"><li>Machine learning</li><li>Java</li><li>Go react</li><li>PHP</li></ul>
 
 ###
 
@@ -32,45 +37,21 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
 </div>
 
-### -->
-
-<h1 align="left">Hey 👋 What's up?</h1>
 
 ###
-
-<p align="left">My name is ... and I'm a ..., from ....</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
+<h2 align="left">Finde me</h2>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-</div>
-
-###
-
-<div align="left">
+ <a href="https://www.linkedin.com/in/jo%C3%A3o-gustavo-vieira-fernandes-pedrosa-949b603b7/" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"   />
+  </a>
+  <a href="mailto:jgvfp@cesar.school" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
 </div>
 
+###
+
+<h2 align="left">View my portfolio</h2>
+
+<a href="https://joaogportfolio.vercel.app/" target="_blank">My portfolio</a>
 ###
