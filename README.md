@@ -39,7 +39,7 @@
 
 
 ###
-<h2 align="left">Finde me</h2>
+<h2 align="left">Find me</h2>
 
 <div align="left">
  <a href="https://www.linkedin.com/in/joão-gustavo-pedrosa/" target="_blank">
